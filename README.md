@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Karthikeya8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Karthikeya
+- 👀 I’m interested in Robotics
+- 🔭 I’m currently studying in IIIT Kottayam
+- 💞️ I’m looking to collaborate on Arduino Projects
 - 📫 How to reach me https://karthikeya8.github.io/MAD/
 - ⚡ Fun fact: Jekyll
 
